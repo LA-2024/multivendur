@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-    currentListing: 123,
+    currentListing: [],
     success: false
 }
 
